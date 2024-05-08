@@ -1,0 +1,25 @@
+#Topics:
+1> understanding DOM and making dynamic website (challenges that fixed by react)
+2> understanding reconcilliation and how react work under the hood
+3> react as wrapper 
+4> component, state, rendering and props. (todo, calculator)
+5> Hooks (functional component, lifecycle event) 
+6> (usecase and benefit)[useState, useEffect, useContext, useMemo, useCallback] + customHOOKS
+7> propDrilling, context API and suspence API.
+8> state management tools
+9> Routing
+10> styling : tailWind, chadCN
+11> tooling behind bootStrapping a react application( create-react-app, vite, pebbel, webpack)
+12> performance improvement (forms: react-hook-form, formik; backend:SWR, react Query)
+13> testing
+
+
+
+BroCOde: (need revision)
+6> Render list,
+
+
+# destructuring;
+# Hooks;
+# lifecycle method and state management methods;
+# phases in react ( mounting, updating, unMounting)
